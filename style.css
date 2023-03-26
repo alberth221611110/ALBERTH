@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(162, 162, 162);
+}
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 570px;
+}
+
+.col h1{
+    color: rgb(255, 255, 255);
+}
+
+.card {
+    background-color: black;
+}
+.card-body h5 {
+    color: rgb(246, 255, 0);
+}
+
+.card-body p {
+    color: aliceblue;
+}
+
+.puki{
+    text-align: center;
+}
